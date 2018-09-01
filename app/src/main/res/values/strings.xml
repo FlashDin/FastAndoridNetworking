@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fast Android Networking</string>
+    <string name="error_field_required">Field harus diisi</string>
+</resources>
